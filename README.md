@@ -1,2 +1,2 @@
 # 2140repo
-Repository for my Northeastern EECE 2140 Python class final project
+Repository to test github for my northeastern EECE 2140 python class
